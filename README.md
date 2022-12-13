@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tombtone07
 - 👀 I’m interested in data science and machine learning.
-- 🌱 I’m currently learning mql5, JavaScript and python scripts
+- 🌱 I’m currently learning mql5, html, php, JavaScript and python scripts.
 - 💞️ I’m looking to collaborate on any project in the above languages
 - 📫 How to reach me ... @VictorBumi on twitter
 
